@@ -10,6 +10,8 @@ PDF of the project report is also included.
 
 Project was finalised during the lockdown due to COVID-19 in the UK, as a result some of this work is patchy at best. 
 
+This project was proposed and supervised by Professor A D Kennedy and Dr R Horsley at the University of Edinburgh where the project was completed with many thanks to their knowledge and insight.
+
 -James C. Clarke  
 
 01/04/2020
