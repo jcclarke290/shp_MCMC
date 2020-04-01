@@ -1,5 +1,5 @@
 # shp_MCMC
-Monte Carlo Markoc Chain integration of Path integrals for Harmonic and Anharmonic Potentials including analysis file
+Monte Carlo Markov Chain integration of Path integrals for Harmonic and Anharmonic Potentials including analysis file
 
 Developed during final year of Computational Physics BSc, this project will generate a Markov Chain of paths for a particle in a given 
 potential by using a Monte Carlo - Metropolis process alongside the Path Integral appraoch to Quantum Mechanics.
